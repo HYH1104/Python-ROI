@@ -1,2 +1,2 @@
 # Python-ROI
-基于Python实现的ROI手势识别
+基于Python-OpenCv-ROI的手势识别
